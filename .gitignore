@@ -1,16 +1,16 @@
-# 打包产物
+# Build artifacts
 *.zip
 
-# 备份与日志
+# Backups and logs
 _backup/
 *.log
 *.tmp
 
-# 本地配置（路径 B 的浏览器偏好，不入库）
+# Local configuration (Path B browser preferences stay out of the repo)
 config.env
 node_modules/
 
-# 系统文件
+# OS files
 .DS_Store
 Thumbs.db
 desktop.ini
