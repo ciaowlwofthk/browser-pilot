@@ -9,3 +9,6 @@
 *.jpg binary
 *.gif binary
 *.zip binary
+
+# Keep the language bar focused on the skill itself, not the two install scripts
+templates/* linguist-detectable=false

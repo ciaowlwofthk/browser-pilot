@@ -1,7 +1,7 @@
 # Before starting a session
 
 > This file applies to **Path B · extension takeover** (bsk CLI and browser extension).
-> **Modification notice (MIT)**: this file reorders the checks and adds missing guidance (including the Chrome 137+ removal of `--load-extension`) for this package's two-path model. Upstream copyright: `Tencent/BrowserSkill` (MIT), see `LICENSE.md`.
+> **Modification notice (MIT)**: this file reorders the checks and adds missing guidance (including the Chrome 137+ removal of `--load-extension`) for this package's two-path model. Upstream copyright: `Tencent/BrowserSkill` (MIT), see `NOTICE.md`.
 
 ## CLI availability
 

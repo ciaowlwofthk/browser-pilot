@@ -1,7 +1,7 @@
 # Path C · standalone browser instance (CLI)
 
 > This file applies to **Path C · standalone instance**; it is the full documentation for that path.
-> **Modification notice (Apache-2.0 §4(b))**: this file is modified from its upstream (`vercel-labs/agent-browser`, Apache-2.0): chapters reordered to "installed → running → typical scenarios → advanced → security → troubleshooting"; chapters and supporting material of two same-named documents merged; usage of "connect to an already-running browser" parameters removed and authentication moved inside the instance's own profile; a `scrollIntoView` step added before clicking (conclusion from this package's measurements); the install wrapper that ran automatically on load removed. Upstream copyright notice in `LICENSE.md`, full license in `LICENSES/Apache-2.0.txt`.
+> **Modification notice (Apache-2.0 §4(b))**: this file is modified from its upstream (`vercel-labs/agent-browser`, Apache-2.0): chapters reordered to "installed → running → typical scenarios → advanced → security → troubleshooting"; chapters and supporting material of two same-named documents merged; usage of "connect to an already-running browser" parameters removed and authentication moved inside the instance's own profile; a `scrollIntoView` step added before clicking (conclusion from this package's measurements); the install wrapper that ran automatically on load removed. Upstream copyright notice in `NOTICE.md`, full license in `LICENSES/Apache-2.0.txt`.
 
 > Source skill: `agent-browser-unified`. The original document follows in full, unaltered.
 

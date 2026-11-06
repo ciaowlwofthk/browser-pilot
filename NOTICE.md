@@ -88,7 +88,7 @@ The license status above was verified on 2026-11-02 through the GitHub API `lice
 4. **Post-crash cleanup list**: processes, sessions, daemon, temp files, proxy/ports — five categories plus closing verification (P2)
 5. **Consistency pass**: README wording changed from "takes over the current tab" to "opens a new Agent Window without seizing the user's window" (matching the measured record "Session model: not a takeover of the current tab"); a "path" column added to the reference index in `SKILL.md` (P2)
 6. **Path labels on reference files**: all 20 files under `references/` are headed with "This file applies to Path X" (P2)
-7. **License completion** (Apache-2.0 §4): full text of `LICENSES/Apache-2.0.txt` added; upstream copyright lines for Tencent/BrowserSkill and vercel-labs/agent-browser added to `LICENSE.md`; file-level modification notices added to the four modified files (`path-standalone-agent-browser.md`, `authentication.md`, `path-extension-browser-skill.md`, `environment.md`)
+7. **License completion** (Apache-2.0 §4): full text of `LICENSES/Apache-2.0.txt` added; upstream copyright lines for Tencent/BrowserSkill and vercel-labs/agent-browser added to `NOTICE.md`; file-level modification notices added to the four modified files (`path-standalone-agent-browser.md`, `authentication.md`, `path-extension-browser-skill.md`, `environment.md`)
 8. **Copy update**: `summary` / `description` / `description_en` and `workbuddy.json` rewritten along "title — positioning — highlights — scenarios — value — boundaries"
 
 ## File-level modification notice summary (Apache-2.0 §4(b))
@@ -101,3 +101,12 @@ The license status above was verified on 2026-11-02 through the GitHub API `lice
 | `references/environment.md` | Tencent/BrowserSkill (MIT) | Top of file |
 
 Other files under `references/` only gained a "This file applies to Path X" scope label and, where relevant, light cross-references; their operating instructions were not altered.
+
+## Copyright notices
+
+This package is an integrated work; copyright in the derived content belongs to its upstream authors:
+
+- Path B derived content (`references/path-extension-browser-skill.md` and others): Copyright (c) 2026 Tencent/BrowserSkill contributors, MIT License (full text in `LICENSE`)
+- Path C derived content (`references/path-standalone-agent-browser.md`, `references/authentication.md` and others): Copyright (c) 2026 vercel-labs/agent-browser contributors, Apache License 2.0 (full text in `LICENSES/Apache-2.0.txt`)
+
+Original parts of this package are Copyright (c) 2026 browser-pilot contributors, MIT License. File-level modification notices for the changed files appear at the top of each file; the NOTICE attribution required by Apache-2.0 section 4 is retained in this file.

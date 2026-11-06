@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Third-party copyright and licenses
-
-This package is an integrated work. Copyright in the following derived content belongs to its upstream authors:
-
-- Path B derived content (`references/path-extension-browser-skill.md` and others): Copyright (c) 2026 Tencent/BrowserSkill contributors, MIT License (full text in the upper part of this file)
-- Path C derived content (`references/path-standalone-agent-browser.md`, `references/authentication.md` and others): Copyright (c) 2026 vercel-labs/agent-browser contributors, Apache License 2.0 (full text in `LICENSES/Apache-2.0.txt`)
-
-File-level modification notices for the changed files appear at the top of each file and in `NOTICE.md`; the NOTICE attribution required by Apache-2.0 section 4 is retained in `NOTICE.md`.

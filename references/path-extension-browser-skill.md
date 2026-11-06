@@ -1,7 +1,7 @@
 # Path B · taking over a logged-in browser with an extension
 
 > This file applies to **Path B · extension takeover**; it is the full documentation for that path.
-> **Modification notice (MIT)**: integration into this package added the path label, scope header and cross-references; the operating instructions were not altered. Upstream copyright: `Tencent/BrowserSkill` (MIT), see `LICENSE.md`.
+> **Modification notice (MIT)**: integration into this package added the path label, scope header and cross-references; the operating instructions were not altered. Upstream copyright: `Tencent/BrowserSkill` (MIT), see `NOTICE.md`.
 
 > Source skill: `browser-skill`. The original document follows in full, unaltered.
 

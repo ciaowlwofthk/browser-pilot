@@ -110,7 +110,7 @@ browser-pilot/
 ├─ NOTICE.md                       # Third-party provenance and license status
 ├─ LICENSES/Apache-2.0.txt         # Upstream license copy for Path C
 ├─ workbuddy.json                  # Optional WorkBuddy metadata; other runtimes ignore it
-└─ LICENSE.md
+└─ LICENSE
 ```
 
 ## Measured runs
@@ -149,7 +149,7 @@ Three things worth knowing before you start:
 
 ## License and third-party notices
 
-This is an **integrated work**. The original parts (routing layer, guardrails, self-check flow, example lists) are [MIT](LICENSE.md). Reference documentation is consolidated from two upstream projects, both under open-source licenses:
+This is an **integrated work**. The original parts (routing layer, guardrails, self-check flow, example lists) are [MIT](LICENSE). Reference documentation is consolidated from two upstream projects, both under open-source licenses:
 
 | Path | Upstream | License | Redistribution condition |
 |:--|:--|:--|:--|

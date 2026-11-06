@@ -1,7 +1,7 @@
 # Authentication Patterns
 
 > This file applies to **Path C · standalone instance** (agent-browser).
-> **Modification notice (Apache-2.0 §4(b))**: this file is modified from its upstream (`vercel-labs/agent-browser` documentation, Apache-2.0): the authentication flow now logs in inside the instance's own profile, and usage notes for "connect to an already-running browser" parameters have been removed, consistent with this package's two-path model. Upstream copyright notice in `LICENSE.md`.
+> **Modification notice (Apache-2.0 §4(b))**: this file is modified from its upstream (`vercel-labs/agent-browser` documentation, Apache-2.0): the authentication flow now logs in inside the instance's own profile, and usage notes for "connect to an already-running browser" parameters have been removed, consistent with this package's two-path model. Upstream copyright notice in `NOTICE.md`.
 
 Login flows, session persistence, OAuth, 2FA, and authenticated browsing.
 
