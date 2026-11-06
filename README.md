@@ -7,7 +7,7 @@
 
 An agent skill for browser automation that **decides the route before touching a page**: reuse your login through **extension takeover**, or get a clean slate with a **standalone instance**. Success is judged by actual page state — never by "the command returned OK".
 
-> An agent skill in plain `SKILL.md` format. Works with WorkBuddy, Claude Code and any runtime that follows the Agent Skills convention. This repository is the **English edition**; the Chinese edition is distributed via SkillHub under the same version number.
+> A **SKILL.md**-native agent skill. Works with WorkBuddy, Claude Code and any runtime that follows the Agent Skills convention. This repository is the **English edition**; the Chinese edition is distributed via SkillHub under the same version number.
 
 ---
 
