@@ -1,0 +1,5 @@
+{
+  "display_name": "browser-pilot",
+  "display_name_en": "browser-pilot",
+  "description_en": "Use when a task needs clicking, form filling, pagination, screenshots, dynamic content scraping, or login-only pages. Pick the path first: extension takeover reuses your logged-in browser (new Agent Window, never seizing yours); standalone runs its own Chromium, never touching your account. Judge success by real page state; never replay on unknown effect; degrade gracefully on failures; credentials never stored; no paywall or CAPTCHA bypass. Triggers: clicking, form filling, pagination, screenshots, dynamic scraping, login pages. Not for static-HTML scraping. Skill id: browser-pilot."
+}

@@ -1,0 +1,16 @@
+# 打包产物
+*.zip
+
+# 备份与日志
+_backup/
+*.log
+*.tmp
+
+# 本地配置（路径 B 的浏览器偏好，不入库）
+config.env
+node_modules/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
